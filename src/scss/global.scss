@@ -6,6 +6,10 @@ h1{
 h2{
     font-weight: bold;
 }
+h3{
+    font-size: 2em;
+    color: white;
+}
 a{
     color:#613475; 
     font-weight: bold;
@@ -44,6 +48,6 @@ a:hover{
     z-index: 1030;
 }
 .bg-nav{
-    background-color: white;
+    background-color: black;
     border-bottom: 2px solid black;
 }
